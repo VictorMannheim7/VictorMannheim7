@@ -1,5 +1,5 @@
-![Overview](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
-![Languages](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
+![Overview](https://github.com/VictorMannheim7/github-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/VictorMannheim7/github-stats/blob/master/generated/languages.svg)
 
 ### Languages:  
 <img src='./images/PythonLogo.png'     alt='Python'     width='32px' height='32px'  align='left' />
